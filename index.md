@@ -8,7 +8,7 @@ title: Example
 - [About the project](about)
 - [Publications](publications)
 - [Team](team)
-- [Guidelines](Guidelines)
+- [Guidelines](guidelines)
 
 # Getting started
 
